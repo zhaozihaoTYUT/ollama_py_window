@@ -2,7 +2,7 @@
 ![alt text](img/logo.png)
 ## 羊驼桌面应用 A Desktop Application To Talk with Ollama3.x
 
-实际上就是为了代替 OpenWebUI + Docker。只是一个“展示层”的交互工具，仍然需要下载和安装 [Ollama](https://ollama.com/)
+实际上就是为了代替 OpenWebUI + Docker。只是一个前端交互工具，仍然需要下载和安装 [Ollama](https://ollama.com/)
 
 ![alt text](img/winshoot.png)
 
