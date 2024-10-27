@@ -1,5 +1,9 @@
 # ollama_py_window
-![alt text](img/logo.png)
+
+<div align=center><img src="img/logo.png" style="width:240px;align=center" /></div>
+
+---
+
 ## 羊驼桌面应用 A Desktop Application To Talk with Ollama3.x
 
 实际上就是为了代替 OpenWebUI + Docker。只是一个前端交互工具，仍然需要下载和安装 [Ollama](https://ollama.com/)
